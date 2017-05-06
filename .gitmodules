@@ -1,0 +1,6 @@
+[submodule "ZBar"]
+	path = ZBar
+	url = https://github.com/ZBar/ZBar.git
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/vb0067/libiconv.git
