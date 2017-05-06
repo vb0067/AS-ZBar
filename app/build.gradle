@@ -28,7 +28,8 @@ android {
     externalNativeBuild {
         ndkBuild {
            // path "CMakeLists.txt"
-            path "../ZBar/android/jni/android.mk"
+            //path "../ZBar/android/jni/android.mk"
+            path "android.mk"
         }
     }
     //配置签名信息
